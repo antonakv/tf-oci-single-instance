@@ -1,4 +1,4 @@
-# Terraform OCI example
+# Terraform Oracle Cloud single instance
 
 Terraform Oracle Cloud single instance
 
